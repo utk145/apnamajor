@@ -1,0 +1,4 @@
+1) Open the folder and type ` python -m venv venv ` to create a virtual environment where u will install all the packages for the project(in that project folder itself) and not globally.
+2) After creating venv  type ` venv/Scripts/activate ` to activate venv where we can install packages.
+3) Now install packages e.g. pip install streamlit
+4) Type ` deactivate ` to deactivate/stop the virtual environment
